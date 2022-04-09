@@ -1,0 +1,13 @@
+name: EEG_Data_Sim_Shiny_App
+title: EEG_Data_Sim_Shiny_App
+username:
+account: connolr3
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5839250
+bundleId: 5713021
+url: https://connolr3.shinyapps.io/EEG_Data_Sim_Shiny_App/
+when: 1647956127.53774
+lastSyncTime: 1647956127.53774
+asMultiple: FALSE
+asStatic: FALSE

@@ -1,0 +1,13 @@
+name: EEGDataSim
+title: EEGDataSim
+username:
+account: connolr3
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5916144
+bundleId: 5781412
+url: https://connolr3.shinyapps.io/EEGDataSim/
+when: 1649498978.72825
+lastSyncTime: 1649498978.72825
+asMultiple: FALSE
+asStatic: FALSE
